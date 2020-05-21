@@ -1,1 +1,0 @@
-# Na-ve-Bayes-Classifier-Algorithm
